@@ -1,4 +1,3 @@
-startGame() // starts the intial game
 
 // go to the functions and find according result functions based on user decision to see code. e.x. function for entering haunted house will have two options, upstairs or basement, eash option will have an according function.
 
